@@ -40,3 +40,11 @@ Adcione uma descriação que sera exibida e depois a URL, deste jeito:
     [clique aqui](https:\\facebook.com)
 
 
+Para criação de uma TABELA:
+    Turma | nome | Falta | Presença
+    ---|---|---
+    DS1-M | brayan | - []  | - [x]
+    DS1-M | fulano | - [] | - [x]
+    DS1-M | ciclano| - [x] | - []
+
+
