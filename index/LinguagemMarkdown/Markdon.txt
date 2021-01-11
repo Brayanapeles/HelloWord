@@ -1,0 +1,33 @@
+**palavra** ou __palavra__   = deixa a palavra em negrito
+
+*palavra* ou _palavra_   = deixa a palavra em ítalica
+
+#palavra, ##palavra, ###palavra  = são para títulos, como ex: H1, H2, H3;
+
+---  ou ***  = coloca uma linha abaixo, como se fosse uma <hr>
+
+Para criação de listas numeradas, coloca-se:
+
+1. Teste 1                                        1. Teste 1
+1. teste 2                                        2. Teste 2
+1. Teste 3         E ficara desta forma   =       3. Teste 3
+1. Teste 4                                        4. Teste 4
+1. Teste 5                                        5. Teste 5
+
+
+Para criação de listas Demarcadas:
+
+* Teste
+    ou
+- Teste
+
+Para criação de listas de tarefas:
+
+- [] Criar Site
+- [] Organizar com o cliente
+
+    Caso a tarefa seja concluida, basta adicionar um "X" dentro dos colcheites. dest forma:
+    
+- [x] Criar site
+
+
