@@ -34,6 +34,9 @@ Para colocar uma foto em uma issue por ex, faça isto:
 
 Primeiro selecione uma foto não muito grande!, no max 400px por 400px, pegue esta foto e arraste para o canto inferior da issue, onde tem uma descrição abaixo.
 
+Para Criar LINKS:
 
+Adcione uma descriação que sera exibida e depois a URL, deste jeito:
+    [clique aqui](https:\\facebook.com)
 
 
