@@ -27,7 +27,13 @@ Para criação de listas de tarefas:
 - [] Organizar com o cliente
 
     Caso a tarefa seja concluida, basta adicionar um "X" dentro dos colcheites. dest forma:
-    
+
 - [x] Criar site
+
+Para colocar uma foto em uma issue por ex, faça isto:
+
+Primeiro selecione uma foto não muito grande!, no max 400px por 400px, pegue esta foto e arraste para o canto inferior da issue, onde tem uma descrição abaixo.
+
+
 
 
